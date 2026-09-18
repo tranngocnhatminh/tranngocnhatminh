@@ -24,5 +24,5 @@ I've built a considerable amount of repos, most of which are private (I'm still 
 
 __Fun Facts__:
 * I started learning coding because of my love for mathematics
-* I'm a big fan of Formula 1
+* I'm a big fan of Formula 1 and the DOOM games
 * As if my hobbies aren't nerdy enough already, I'm also an audiophile
